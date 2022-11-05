@@ -4,11 +4,10 @@ Zishan Kazi (pixel-z)
 ```
 
 ## Issue Resolved
-https://github.com/AmitPandey-Research/dfs-backend/issues/3
-https://github.com/AmitPandey-Research/dfs-backend/issues/8
-
+- [Issue #3](https://github.com/AmitPandey-Research/dfs-backend/issues/3)
+- [Issue #8](https://github.com/AmitPandey-Research/dfs-backend/issues/8)
 ## Files changed (Pull Request)
-https://github.com/AmitPandey-Research/dfs-backend/pull/7
+- [PR #7](https://github.com/AmitPandey-Research/dfs-backend/pull/7)
 
 ## Requirements Step
 
@@ -27,9 +26,9 @@ Users and tokens are being loaded using the hardcoded code stored in users.json 
 ## Build Step
 - Changing the code of loading data from user.json and tokens.json to loading it by running SQL queries (using execSql function)
 
-- Files changed: https://github.com/AmitPandey-Research/dfs-backend/blob/master/routes/auth/token.js
+- Files changed: [token.js](https://github.com/AmitPandey-Research/dfs-backend/blob/master/routes/auth/token.js)
 
-- All changes: https://github.com/AmitPandey-Research/dfs-backend/pull/7
+- All changes: [PR #7](https://github.com/AmitPandey-Research/dfs-backend/pull/7)
 
 ## Testing Step
 - Tested code for all possible conditions for login and signup.
