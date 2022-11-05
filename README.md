@@ -9,6 +9,6 @@
 - [request-pipeline-models](components/request-pipeline-models/init.md)
 - [ui-featurs](components/ui-features/init.md)
 - [users](components/users/init.md)
-
+- [optimizations](components/optimizations/init.md)
 
 
