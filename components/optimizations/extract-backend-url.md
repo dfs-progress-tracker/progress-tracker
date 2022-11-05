@@ -1,6 +1,8 @@
-# Week 1
-
 ## Requirements Step
+
+[Issue 1](https://github.com/AmitPandey-Research/dfs-frontend/issues/1)
+
+Contributors : Shaantanu Kulkarni
 
 Working on the files:
 - `cred.js`

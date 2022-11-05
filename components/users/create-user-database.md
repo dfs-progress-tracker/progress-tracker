@@ -1,6 +1,8 @@
-## Week 1 progress
-
 ## Requirements Step
+
+[Issue 9](https://github.com/AmitPandey-Research/dfs-backend/issues/9)
+
+Contributors : Pranshul Chawla
 
 Working on the files:
 - `token.js`
@@ -30,24 +32,24 @@ Users and tokens are being loaded using the hardcoded code stored in users.json 
 
 ## Schema and Test Data
 
-![](./images/week1/1.png)
+![](https://imgur.com/fAggHQv.png)
 
-![](./images/week1/2.png)
+![](https://imgur.com/xblvRAu.png)
 ## Testing Step (Sign Up)
 
 - User already exists
 
-![](./images/week1/3.png)
+![](https://imgur.com/3Atb8L1.png)
 
 
 - Missing field
 
-![](./images/week1/4.png)
+![](https://imgur.com/UHot4C4.png)
 
 - Successfully inserted
 
-![](./images/week1/5.png)
+![](https://imgur.com/Qwgjh6o.png)
 
 * Here the user is inserted into the database and a success message is shown, as can be seen in database :
 
-![](./images/week1/6.png)
+![](https://imgur.com/3g8T9Ff.png)

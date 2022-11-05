@@ -1,4 +1,14 @@
-# Week 1
+# Contributors
+```
+Zishan Kazi (pixel-z)
+```
+
+## Issue Resolved
+https://github.com/AmitPandey-Research/dfs-backend/issues/3
+https://github.com/AmitPandey-Research/dfs-backend/issues/8
+
+## Files changed (Pull Request)
+https://github.com/AmitPandey-Research/dfs-backend/pull/7
 
 ## Requirements Step
 
@@ -6,14 +16,14 @@ Working on the files:
 - `token.js`
 - `create_schema.sql`
 - `dump_v2.sql`
-Users and tokens are being loaded using the hardcoded code stored in users.json and tokens.json. Changing from loading from these json files to loading from tables (by executing sql query).
 
-https://github.com/AmitPandey-Research/dfs-backend/issues/3
+Users and tokens are being loaded using the hardcoded code stored in users.json and tokens.json. Changing from loading from these json files to loading from tables (by executing sql query).
 
 ## Design Step
 - Tech stack being used: `Javascript, SQL`
 - Changing the schema and adding DfsUser table into the database and adding the sample values into it.
 - Creating the relevant dump file (dump_v2.sql) for other users to add other the new table sample values
+
 ## Build Step
 - Changing the code of loading data from user.json and tokens.json to loading it by running SQL queries (using execSql function)
 
