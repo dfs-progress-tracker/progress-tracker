@@ -10,9 +10,10 @@ Zishan Kazi (pixel-z)
 ## Files changed (Pull Request)
 - https://github.com/AmitPandey-Research/dfs-backend/pull/22
 
-## Requirements Step
+## Requirements
 
 Working on the files:
+- `tokens.js`
 - `src/request.js`
 - `src/components/datasets/viewDatasetModal.js`
 - `src/components/homepage/myRequests.js`
@@ -23,11 +24,7 @@ On login, store the timestamp along with the token. Add a `isTokenStillValid` fu
 Make a request module that exports a custom version of axios with heads to all hooks / components making requests. E.g: a module that exports
 
 ## Design Step
-- Tech stack being used: `Javascript, SQL`
-- Changing the schema and adding DfsUser table into the database and adding the sample values into it.
-- Creating the relevant dump file (dump_v2.sql) for other users to add other the new table sample values
-
-## Build Step
-
-## Testing Step
-
+- Tech stack being used: `ReactJS`
+- Changed `/login` route, bug fixes in validTill.
+- Changing all the axios requests and replacing through a wrapper function of `getWithLogin()` and `postWithLogin()`.
+- The wrapper functions check whether the token is valid or not, if not, it redirects to login page. 
