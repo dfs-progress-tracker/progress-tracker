@@ -5,10 +5,10 @@ Zishan Kazi (pixel-z)
 
 ## Issue Resolved
 - Change backend to include token timeout and send to frontend
-- https://github.com/AmitPandey-Research/dfs-frontend/issues/6
+- [Issue #6](https://github.com/AmitPandey-Research/dfs-frontend/issues/6)
 
 ## Files changed (Pull Request)
-- https://github.com/AmitPandey-Research/dfs-backend/pull/22
+- [PR #22](https://github.com/AmitPandey-Research/dfs-backend/pull/22)
 
 ## Requirements
 
