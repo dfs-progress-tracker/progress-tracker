@@ -12,5 +12,3 @@
 
 
 
-Hacking season 2022
-
