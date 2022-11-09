@@ -34,7 +34,18 @@ Download Button on Mydata section
 ## Design Step
 
 ***
+* Created front-end route to my-models page
+* Created route end points on backend.
+* Inserted file contents into the database on the backend.
+* Implemented view and download option for data models.
+* Created a time out option to delete the file on the backend.
 ***
+
+## Testing Step
+
+***
+* Checked error codes if model didn't exist
+* Tested upload and modified dates
 
 <!-- *** -->
 
